@@ -15,7 +15,7 @@ Hello there! I'm Alish Shaikh, a passionate and curious Computer Engineering stu
 
 ## 📫 Let's Connect!
 
-I'm excited to connect with fellow tech enthusiasts, potential collaborators, or anyone who shares a passion for exploring the frontiers of technology. Feel free to reach out to me through [Instagram](https://www.instagram.com/ali_shaikhh7/) or [LinkedIn](your-twitter-profile).
+I'm excited to connect with fellow tech enthusiasts, potential collaborators, or anyone who shares a passion for exploring the frontiers of technology. Feel free to reach out to me through [Instagram](https://www.instagram.com/ali_shaikhh7/) or [LinkedIn](https://www.linkedin.com/in/alish-shaikh-0b8408172/).
 
 Thank you for visiting my GitHub universe!
 <!--
