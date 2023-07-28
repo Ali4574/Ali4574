@@ -3,7 +3,7 @@
 ![Git](https://github.com/Ali4574/Ali4574/assets/131742793/8b3fab2c-81a6-4e13-a2fc-cba4aeea1c17)
 
 ## 👩‍💻 About Me
-Hello there! I'm Alish Shaikh, a passionate and curious Computer Engineering student, ready to embark on a never-ending quest to explore the wonders of technology.
+Hello there! I'm Alish Shaikh, a final-year Computer Engineering student about to embark on the next chapter of my exciting journey with a profound love for all tech things 👨🏻‍💻.
 
 ## 💡 Interests and Expertise
 - 🎮 Gaming and Graphics : Exploring the realms of real-time graphics and interactive entertainment, combining my passion for technology and creativity.
