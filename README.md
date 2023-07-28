@@ -1,5 +1,7 @@
 # Hi, I'm Alish 👋
 
+![Git](https://github.com/Ali4574/Ali4574/assets/131742793/8b3fab2c-81a6-4e13-a2fc-cba4aeea1c17)
+
 ## 👩‍💻 About Me
 Hello there! I'm Alish Shaikh, a passionate and curious Computer Engineering student, ready to embark on a never-ending quest to explore the wonders of technology.
 
