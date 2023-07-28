@@ -21,7 +21,7 @@ Hello there! I'm Alish Shaikh, a final-year Computer Engineering student about t
 
 ## 📫 Let's Connect!
 
-I'm excited to connect with fellow tech enthusiasts, potential collaborators, or anyone who shares a passion for exploring the frontiers of technology. Feel free to reach out to me through [Instagram](https://www.instagram.com/ali_shaikhh7/) or [LinkedIn](https://www.linkedin.com/in/alish-shaikh-0b8408172/).
+I'm excited to connect with fellow tech enthusiasts, potential collaborators, or anyone who shares a passion for exploring the frontiers of technology. Feel free to reach out to me through 
 
 [<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/discord-round.svg" width="3.5%"/>](https://discord.gg/YexrMNwY)  &nbsp; [<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>](https://twitter.com/iali_shaikh7)  &nbsp; [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/alish-shaikh-0b8408172/)  &nbsp; [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>](https://www.instagram.com/ali_shaikhh7/)  &nbsp; <a href="mailto:alishmshaikh2002@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
 
