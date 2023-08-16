@@ -11,6 +11,9 @@ Hello there! I'm Alish Shaikh, a final-year Computer Engineering student about t
 
 ## 🛠️ My Tech Stack
 
+<img align="right" src="https://github.com/Ali4574/Ali4574/assets/131742793/0421dba8-9edf-4fe6-9dd1-3f175f6d152b" width="250px">
+
+
     class TechStack:
         def __init__(self):
             self.languages = ['Python', 'C++', 'JavaScript', 'Java']
