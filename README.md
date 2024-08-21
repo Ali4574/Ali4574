@@ -6,8 +6,10 @@
 Hello there! I'm Alish Shaikh, a  Cloud Architect in training with a background in computer engineering, specializing in AWS cloud platforms. My primary focus is on developing innovative cloud solutions to drive organizational success. Additionally, I possess skills in frontend web development, which enhance my ability to design and deploy comprehensive cloud-based applications 👨🏻‍💻.
 
 ## 💡 Interests and Expertise
-- 🎮 Gaming and Graphics : Exploring the realms of real-time graphics and interactive entertainment, combining my passion for technology and creativity.
-- 🌐 Web Development: Crafting intuitive and visually appealing web experiences, leveraging my skills in HTML, CSS, and JavaScript.
+- ☁️ Cloud Architecture
+- 💻 Linux Administrator
+- 🎮 Gaming and Graphics 
+- 🌐 Fronted Development
 
 ## 🛠️ My Tech Stack
 
@@ -17,7 +19,7 @@ Hello there! I'm Alish Shaikh, a  Cloud Architect in training with a background 
     class TechStack:
         def __init__(self):
             self.CloudPlatform = ['AWS(EC2,S3,Lambda,RDS,VPC,IAM)']
-            self.languages = ['Python', 'C++', 'JavaScript', 'Java']
+            self.languages = ['Python', 'JavaScript', 'Java']
             self.tools = ['Git', 'VS Code','Figma']
             self.OS = ['Linux(Redhat)', 'Windows']
 
