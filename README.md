@@ -3,7 +3,7 @@
 ![Git](https://github.com/Ali4574/Ali4574/assets/131742793/8b3fab2c-81a6-4e13-a2fc-cba4aeea1c17)
 
 ## 👩‍💻 About Me
-Hello there! I'm Alish Shaikh, a final-year Computer Engineering student about to embark on the next chapter of my exciting journey with a profound love for all tech things 👨🏻‍💻.
+Hello there! I'm Alish Shaikh, a  Cloud Architect in training with a background in computer engineering, specializing in AWS cloud platforms. My primary focus is on developing innovative cloud solutions to drive organizational success. Additionally, I possess skills in frontend web development, which enhance my ability to design and deploy comprehensive cloud-based applications 👨🏻‍💻.
 
 ## 💡 Interests and Expertise
 - 🎮 Gaming and Graphics : Exploring the realms of real-time graphics and interactive entertainment, combining my passion for technology and creativity.
