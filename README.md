@@ -1,6 +1,5 @@
 # Hi, I'm Alish <img src="https://github.com/Ali4574/Ali4574/assets/131742793/77638217-9066-4b16-ac31-c53e92379e12" width="29px">
 
-![Git]
 
 ## 👩‍💻 About Me
 Hello there! I'm Alish Shaikh, a  Cloud Architect in training with a background in computer engineering, specializing in AWS cloud platforms. My primary focus is on developing innovative cloud solutions to drive organizational success. Additionally, I possess skills in frontend web development, which enhance my ability to design and deploy comprehensive cloud-based applications 👨🏻‍💻.
