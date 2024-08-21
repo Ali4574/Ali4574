@@ -16,9 +16,10 @@ Hello there! I'm Alish Shaikh, a  Cloud Architect in training with a background 
 
     class TechStack:
         def __init__(self):
+            self.CloudPlatform = ['AWS(EC2,S3,Lambda,RDS,VPC,IAM)']
             self.languages = ['Python', 'C++', 'JavaScript', 'Java']
             self.tools = ['Git', 'VS Code','Figma']
-            self.frameworks = ['React', 'Node.js']
+            self.OS = ['Linux(Redhat)', 'Windows']
 
 
 
